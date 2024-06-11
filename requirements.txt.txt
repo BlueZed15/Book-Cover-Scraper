@@ -1,0 +1,7 @@
+python
+scrapy
+requests
+opencv-python
+itemadapter
+os
+numpy
